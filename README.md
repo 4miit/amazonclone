@@ -10,7 +10,7 @@ the icons(cart logo, location logo) used in the project are imported from CDN (c
 
   
 ---------------------------------------------------------------------------------------------------
-
+## `Project link :- ` https://amazonclone-7pmwtbeg2-amit-kumars-projects-d761c49e.vercel.app/
 
 # screenshoots 
 ![Screenshot 2024-05-19 100107](https://github.com/4miit/amazonclone/assets/152176527/1509d3f9-4c02-4b21-9b4d-ffa06295ef2a)
