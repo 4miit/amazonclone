@@ -1,8 +1,8 @@
-# landing page of amazon.
-A simple simple landing page of amazon e-commerce platform using HTML & pure css . 
+# Landing page of amazon.
+A L simple landing page of amazon e-commerce platform using HTML & pure css . 
 the icons(cart logo, location logo) used in the project are imported from CDN (content delivery network) that is a library.
 
-# technologies 
+# Technologies 
 
 * HTML
 * CSS
@@ -10,7 +10,8 @@ the icons(cart logo, location logo) used in the project are imported from CDN (c
 
   
 ---------------------------------------------------------------------------------------------------
-## `Project link :- ` https://amazonclone-7pmwtbeg2-amit-kumars-projects-d761c49e.vercel.app/
+
+## `Project link :- ` https://amazonclone-lovat.vercel.app/
 
 # screenshoots 
 ![Screenshot 2024-05-19 100107](https://github.com/4miit/amazonclone/assets/152176527/1509d3f9-4c02-4b21-9b4d-ffa06295ef2a)
