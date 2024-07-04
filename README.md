@@ -1,5 +1,5 @@
 # Landing page of amazon.
-A L simple landing page of amazon e-commerce platform using HTML & pure css . 
+A  simple landing page of amazon e-commerce platform using HTML & pure css . 
 the icons(cart logo, location logo) used in the project are imported from CDN (content delivery network) that is a library.
 
 # Technologies 
